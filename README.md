@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yoda-in-training
+- 👀 I’m interested in ...Python and SQL
+- 🌱 I’m currently learning ...Python and SQL
